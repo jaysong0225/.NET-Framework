@@ -1,0 +1,9 @@
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerDb\bin\Debug\BugTrackerDb.dacpac
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerDb\bin\Debug\BugTrackerDb.dll
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerDb\bin\Debug\BugTrackerDb.pdb
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerDb\obj\Debug\BugTrackerDb.dll
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerDb\obj\Debug\BugTrackerDb.pdb
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerDb\obj\Debug\Model.xml
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerDb\obj\Debug\refactor.xml
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerDb\obj\Debug\postdeploy.sql
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerDb\obj\Debug\predeploy.sql

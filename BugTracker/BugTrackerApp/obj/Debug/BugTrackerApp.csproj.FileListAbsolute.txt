@@ -1,0 +1,11 @@
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\bin\Debug\BugTrackerApp.exe.config
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\bin\Debug\BugTrackerApp.exe
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\bin\Debug\BugTrackerApp.pdb
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\obj\Debug\BugTrackerApp.csprojResolveAssemblyReference.cache
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\obj\Debug\BugTrackerApp.Properties.Resources.resources
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\obj\Debug\BugTrackerApp.csproj.GenerateResource.Cache
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\obj\Debug\BugTrackerApp.csproj.CoreCompileInputs.cache
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\obj\Debug\BugTrackerApp.exe
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\obj\Debug\BugTrackerApp.pdb
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\bin\Debug\BugTrackerDataLayer.dll
+C:\Users\NSCCStudent\source\repos_DBApp\Song-JinGi-w0302272\JaySong_DBAS3200_Assignment1\BugTrackerApp\bin\Debug\BugTrackerDataLayer.pdb

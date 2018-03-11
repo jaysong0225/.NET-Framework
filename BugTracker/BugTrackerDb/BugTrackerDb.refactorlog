@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="8abb9d05-55ed-49f5-b2f6-78905566e7f7" ChangeDateTime="01/15/2018 15:30:22">
+    <Property Name="ElementName" Value="[dbo].[Applications].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Applications]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="AppID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6bda26f3-4479-4f8d-88d2-6ff031bccc65" ChangeDateTime="01/15/2018 15:36:38">
+    <Property Name="ElementName" Value="[dbo].[Users].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Users]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="UserID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="1fd21396-ce89-4f0d-a431-5dca5c6ad7d8" ChangeDateTime="01/15/2018 15:39:26">
+    <Property Name="ElementName" Value="[dbo].[Bugs].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Bugs]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BugID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ba9ceb78-82f0-4ea5-973b-7ffdffb51461" ChangeDateTime="01/15/2018 15:45:20">
+    <Property Name="ElementName" Value="[dbo].[FK_Bugs_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Bugs]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_Bugs_Applications]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="7d3edea3-4418-4fec-a968-7710cf360d3b" ChangeDateTime="01/15/2018 15:59:55">
+    <Property Name="ElementName" Value="[dbo].[BugLog].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[BugLog]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BugLogID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="03368c98-c32b-48cf-bf1f-9e66ec8d3727" ChangeDateTime="01/15/2018 16:02:24">
+    <Property Name="ElementName" Value="[dbo].[FK_BugLog_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[BugLog]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_BugLog_StatusCodes]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ee981581-4865-486d-89b6-66e7baeb713c" ChangeDateTime="01/29/2018 12:28:49">
+    <Property Name="ElementName" Value="[dbo].[StatusCodes].[StatusCodeId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[StatusCodes]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="StatusCodeID" />
+  </Operation>
+</Operations>

@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Applications] (Table)
+       [dbo].[BugLog] (Table)
+       [dbo].[Bugs] (Table)
+       [dbo].[StatusCodes] (Table)
+       [dbo].[Users] (Table)
+       Default Constraint: unnamed constraint on [dbo].[BugLog] (Default Constraint)
+       [dbo].[FK_BugLog_StatusCodes] (Foreign Key)
+       [dbo].[FK_BugLog_Users] (Foreign Key)
+       [dbo].[FK_BugLog_Bugs] (Foreign Key)
+       [dbo].[FK_Bugs_Applications] (Foreign Key)
+       [dbo].[FK_Bugs_Users1] (Foreign Key)
+       [dbo].[FK_Bugs_Users2] (Foreign Key)
+
+** Supporting actions

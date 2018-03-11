@@ -1,0 +1,31 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[AddNewBug] (Procedure)
+       [dbo].[AddNewUser] (Procedure)
+       [dbo].[ConfirmUserName] (Procedure)
+       [dbo].[DeleteApplication] (Procedure)
+       [dbo].[DeleteBug] (Procedure)
+       [dbo].[DeleteUser] (Procedure)
+       [dbo].[GetApplicationInformation] (Procedure)
+       [dbo].[GetBugInformation] (Procedure)
+       [dbo].[GetBugLogInformation] (Procedure)
+       [dbo].[GetUserInformation] (Procedure)
+       [dbo].[ListAllApplications] (Procedure)
+       [dbo].[ListAllBugs] (Procedure)
+       [dbo].[ListAllStatusCodes] (Procedure)
+       [dbo].[ListAllUsers] (Procedure)
+       [dbo].[UpdateApplicaion] (Procedure)
+       [dbo].[UpdateBug] (Procedure)
+       [dbo].[UpdateUser] (Procedure)
+
+** Supporting actions

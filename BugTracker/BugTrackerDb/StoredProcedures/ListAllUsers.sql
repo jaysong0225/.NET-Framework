@@ -1,0 +1,9 @@
+﻿CREATE PROCEDURE [dbo].[ListAllUsers]
+AS
+BEGIN
+
+	SET NOCOUNT ON;
+
+	SELECT UserName FROM Users;
+
+END;
